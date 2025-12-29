@@ -104,8 +104,8 @@ model.fit(X_train, y_train, batch_size=50, epochs=100, validation_split=0.2, cla
 
 # model.save("churn_model.h5")  # ✅ Save model
 # joblib.dump(scaler, "scaler.save")  # ✅ Save scaler
-model.save("churn_model.h5")
-joblib.dump(scaler, "scaler.save")
+# model.save("churn_model.h5")
+# joblib.dump(scaler, "scaler.save")
 
 
 
