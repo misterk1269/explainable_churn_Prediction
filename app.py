@@ -4,6 +4,7 @@ import pandas as pd
 import joblib
 import tensorflow as tf
 import shap
+import easyocr
 import matplotlib.pyplot as plt
 from PIL import Image
 import re
