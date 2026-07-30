@@ -6,6 +6,5 @@ joblib
 matplotlib
 pillow
 opencv-python-headless
-easyocr
 tensorflow-cpu
 shap
