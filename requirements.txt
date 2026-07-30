@@ -1,5 +1,5 @@
 streamlit==1.32.2
-numpy
+numpy==1.26.4
 pandas
 scikit-learn
 joblib
@@ -7,5 +7,5 @@ matplotlib
 easyocr
 pillow
 opencv-python-headless
-tensorflow-cpu
+tensorflow-cpu==2.15.0
 shap
