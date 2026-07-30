@@ -5,7 +5,6 @@ import joblib
 import tensorflow as tf
 import shap
 import matplotlib.pyplot as plt
-import easyocr
 from PIL import Image
 import re
 
