@@ -4,6 +4,7 @@ pandas
 scikit-learn
 joblib
 matplotlib
+easyocr
 pillow
 opencv-python-headless
 tensorflow-cpu
